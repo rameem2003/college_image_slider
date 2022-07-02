@@ -47,8 +47,6 @@ const imegeArray = [
     "img-36.jpg",
     "img-37.jpg",
     "img-38.jpg",
-    "img-39.jpg",
-    "img-40.jpg",
 ];
 
 
